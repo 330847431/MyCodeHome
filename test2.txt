@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 private void testGit(){
 
 }
 asdfasdf
+=======
+asdfasdf
+
+
+阿萨德法师打发斯蒂芬
+>>>>>>> newfunction2
