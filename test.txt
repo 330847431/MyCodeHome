@@ -3,3 +3,8 @@ Main()
 	print "hello word"
 }
 
+
+private void method(){
+	private "my name is feilong.yang"
+}
+
